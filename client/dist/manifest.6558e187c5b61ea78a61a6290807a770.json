@@ -1,0 +1,10 @@
+{
+  "name": "text-editor",
+  "short_name": "texteditor",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./",
+  "description": "Edit text!",
+  "background_color": "#7eb4e2",
+  "theme_color": "#7eb4e2"
+}
